@@ -1,8 +1,9 @@
 h1{
-color:white;
+color:rgb(255, 0, 0);
 }
 
 h1{
     left: auto;
     margin-left: auto;
+    padding: 0%;
 }
